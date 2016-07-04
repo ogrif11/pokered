@@ -15,8 +15,8 @@ _OakSpeechText2A::
 	cont "#MON!@@"
 
 _OakSpeechText2B::
-	text $51,"For some people,"
-	line "#MON are"
+	text $51,"This game is a hack on github called,"
+	line "#MON RedHub Version."
 	cont "pets. Others use"
 	cont "them for fights."
 
